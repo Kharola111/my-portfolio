@@ -7,19 +7,19 @@ const Projects = () => {
   const projects = [
     {
       img: first,
-      langs: ["HTML", "CSS", "Javascript", "React", "MongoDb"],
+      langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "HireHub",
       disc: "HireHub website for recruiting",
     },
     {
       img: second,
-      langs: ["HTML", "CSS", "Javascript", "Node.js"],
+      langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "StaySense",
       disc: "StaySense website for hotel booking",
     },
     {
       img: third,
-      langs: ["HTML", "CSS", "Javascript", "Node.js", "Python"],
+      langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "NewsWire",
       disc: "News website using React and Redux",
     },
