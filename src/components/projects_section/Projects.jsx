@@ -38,9 +38,9 @@ const Projects = () => {
         </div>
         {/* right */}
         <div className="text-white font-medium">
-          <a href="">
+          
             <span>View all ~~&gt;</span>
-          </a>
+          
         </div>
       </div>
       {/* bottom */}

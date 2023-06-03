@@ -1,4 +1,6 @@
-const AboutSection = () => {
+import React from 'react';
+
+const About = () => {
   return (
     <>
       <div className="px-5 max-w-[1560px] mx-auto mt-20 py-10">
@@ -33,10 +35,10 @@ const AboutSection = () => {
             {/* button */}
             <div className="mt-7">
               <a
-                href="#"
+                href="/read-more"
                 className="duration-150 hover:bg-[#C778DD33] border border-[#C778DD] px-4 py-2 text-white"
               >
-                <button>Read more -{">"}</button>
+                <button>Read more -{'>'}</button>
               </a>
             </div>
           </div>
@@ -50,4 +52,4 @@ const AboutSection = () => {
   );
 };
 
-export default AboutSection;
+export default About;
