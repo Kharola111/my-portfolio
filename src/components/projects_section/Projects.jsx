@@ -9,19 +9,19 @@ const Projects = () => {
       img: first,
       langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "HireHub",
-      disc: "HireHub website for recruiting",
+      disc: "Welcome to HireHub, the ultimate destination for job seekers and employers to connect and discover exciting career opportunities. Our user-friendly recruiting website is designed to simplify the job search process and streamline the hiring process for employers, making it a win-win platform for both candidates and companies.",
     },
     {
       img: second,
       langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "StaySense",
-      disc: "StaySense website for hotel booking",
+      disc: "StaySense is a cutting-edge hotel booking website that aims to revolutionize the way travelers find and book accommodations worldwide. With an intuitive and user-friendly interface, StaySense provides a seamless experience for users, making their journey from search to booking hassle-free and enjoyable.",
     },
     {
       img: third,
       langs: ["HTML", "CSS", "Bootstrap","MongoDb","Express.js","React.js","Node.js"],
       title: "NewsWire",
-      disc: "News website using React and Redux",
+      disc: "Welcome to Newswire, the go-to platform for the latest news and updates from around the world. Our website harnesses the power of React and Redux to provide users with a seamless and interactive news browsing experience. With a clean and intuitive interface, Newswire offers a modern approach to consuming news content.",
     },
   ];
 
