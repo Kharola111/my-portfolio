@@ -1,5 +1,5 @@
 import ProjectCard from "../project_card/Projectcard";
-import first from "./imgs/hirehun.png.jfif";
+import first from "./imgs/hirehub.png";
 import second from "./imgs/staysense.jpg";
 import third from "./imgs/newswire.jfif";
 
