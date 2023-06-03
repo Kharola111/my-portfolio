@@ -37,11 +37,7 @@ const Projects = () => {
           <div className="line w-2/3 h-px bg-[#C778DD]"></div>
         </div>
         {/* right */}
-        <div className="text-white font-medium">
-          
-            <span>View all ~~&gt;</span>
-          
-        </div>
+    
       </div>
       {/* bottom */}
       <div className="flex flex-wrap justify-between gap-4 my-12">
