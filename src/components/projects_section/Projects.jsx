@@ -1,6 +1,6 @@
 import ProjectCard from "../project_card/Projectcard";
 import first from "./imgs/hirehun.png.jfif";
-import second from "./imgs/StaySense-Logo.png";
+import second from "./imgs/staysense.jpg";
 import third from "./imgs/newswire.jfif";
 
 const Projects = () => {
